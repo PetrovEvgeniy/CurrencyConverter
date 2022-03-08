@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_country_flag">Currency country flag</string>
+    <string name="to_value_in">To value in</string>
+    <string name="from_value_in">From value in</string>
+    <string name="btn_convert">Convert</string>
+    <string name="converted_value">0.00</string>
+    <string name="currency_list">Currency List</string>
+    <string name="share">Share</string>
+    <string name="refresh_rates">Refresh Rates</string>
+
+    <string-array name="currencies">
+
+    </string-array>
+</resources>

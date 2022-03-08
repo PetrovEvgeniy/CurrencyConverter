@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/currency_flag_image"
+        android:padding="5dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:contentDescription="@string/currency_country_flag" />
+
+
+    <TextView
+        android:id="@+id/currency_name"
+        android:padding="5dp"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:layout_width="147dp"
+        android:layout_height="57dp"
+        android:ellipsize="marquee" />
+
+    <TextView
+        android:id="@+id/currency_value"
+        android:padding="5dp"
+        android:textSize="13sp"
+        android:textStyle="italic"
+        android:layout_width="147dp"
+        android:layout_height="57dp"
+        android:ellipsize="marquee" />
+
+</LinearLayout>
