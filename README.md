@@ -8,5 +8,5 @@ The application's main functionality, as you can tell from the project's name, i
 ## 📲Additional Functionalities
 The users are able to see all listed currencies and their exchange rates (by clicking on the menu item Currency List).
 
-## 📺Live Demo
+## 📺Live Demonstration
 <img src="demo1.gif" style="width:60%" alt="An image displaying a life demonstration of the application">
